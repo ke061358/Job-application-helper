@@ -1,5 +1,5 @@
 # Job-application-helper
-somehow helpful for job application
+Somehow helpful for job application.
 
 ## 使用方法
 
